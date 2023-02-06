@@ -5,10 +5,10 @@ body{
 	overflow:auto;
 	margin:0}
 .tabtytul{ /* tabelka z grafik¹ (nag³ówek) */
-	background-color:#7b90d5;
+	background-color:#80c2ab;
 	border-bottom:2px solid #808080}
 .tytul{ /* komórka z tytu³em */
-	background-color:#7b90d5;
+	background-color:#80c2ab;
 	color:#ffffff;
 	height:80px;
 	font:bold 36px verdana,sans-serif;
@@ -21,19 +21,19 @@ body{
 td{
 	font-size:11px}
 th{
-	background-color:#e1e6f5;
-	color:#2e448f;
+	background-color:#bddfd0;
+	color:#000099;
 	font-size:13px}
 td.g{ /* godzina */
-	background-color:#f0f2fa;
-	color:#2e448f;
+	background-color:#eaf4f0;
+	color:#000099;
 	font-weight:bold;
 	vertical-align:top;
 	text-align:center;
 	white-space:nowrap}
 td.nr{ /* numer lekcji */
-	background-color:#e1e6f5;
-	color:#2e448f;
+	background-color:#bddfd0;
+	color:#000099;
 	font-weight:bold;
 	text-align:center;
 	vertical-align:top}
@@ -42,11 +42,11 @@ td.l{ /* lekcja */
 	color:#000000;
 	vertical-align:top}
 a.n{ /* nauczyciel */
-	color:#2e448f}
+	color:#000099}
 a.s{ /* sala */
-	color:#2e448f}
+	color:#000099}
 a.k{ /* klasa */
-	color:#2e448f}
+	color:#000099}
 .p{ /* przedmiot */
 	color:#000000;
 	font-weight:bold}
